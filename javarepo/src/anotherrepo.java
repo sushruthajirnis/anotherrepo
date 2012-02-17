@@ -14,6 +14,8 @@ public class anotherrepo {
 	//changing fetch head
 	
 	System.out.println("from local repository");
+	
+	System.out.println("********");
 	}
 	
 
