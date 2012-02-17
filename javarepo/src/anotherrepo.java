@@ -13,6 +13,7 @@ public class anotherrepo {
 	//change successful
 	//changing fetch head
 	
+	System.out.println("from local repository");
 	}
 	
 
